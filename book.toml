@@ -1,4 +1,10 @@
 [book]
-title = "coolest jj guide for graphite users"
+title = "The jj Guide — For Graphite Users & Beyond"
 authors = ["William Scullion"]
 language = "en"
+src = "src"
+
+[output.html]
+default-theme = "coal"
+preferred-dark-theme = "coal"
+git-repository-url = "https://github.com/your-org/jj-guide"

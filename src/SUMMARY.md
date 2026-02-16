@@ -1,3 +1,30 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[Introduction](./introduction.md)
+
+# Getting Started
+
+- [Installation & Setup](./installation.md)
+- [Core Concepts](./concepts.md)
+
+# Daily Workflow
+
+- [Essential Commands](./commands.md)
+- [Editing History](./editing-history.md)
+- [Conflicts](./conflicts.md)
+
+# Stacked PRs
+
+- [Working with Stacks](./stacks.md)
+- [jj-ryu: Stacked PRs on GitHub](./jj-ryu.md)
+
+# Migrating from Graphite
+
+- [Graphite to jj](./from-graphite.md)
+
+# Reference
+
+- [Best Practices](./best-practices.md)
+- [Anti-Patterns](./anti-patterns.md)
+- [Configuration](./configuration.md)
+- [Cheat Sheet](./cheat-sheet.md)

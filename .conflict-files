@@ -1,0 +1,3 @@
+ancestorEntries = ["src/chapter_1.md"]
+ourEntries = ["src/chapter_1.md"]
+theirEntries = ["src/chapter_1.md"]

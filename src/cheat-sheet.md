@@ -2,7 +2,7 @@
 
 ## Daily Commands
 
-| Command | What it does |
+| Command | What it doess |
 |---|---|
 | `jj new` | Start a new change on top of `@` |
 | `jj describe -m "msg"` | Set description of current change |

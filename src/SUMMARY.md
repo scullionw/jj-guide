@@ -12,6 +12,7 @@
 - [Essential Commands](./commands.md)
 - [Editing History](./editing-history.md)
 - [Conflicts](./conflicts.md)
+- [Working with Git Users](./collaborating.md)
 
 # Stacked PRs
 
